@@ -18,4 +18,4 @@ y sobre actuadores:
 4. Tipo de bus que utilizan
 5. Ejemplos
 
-Tarea entregada el 23 de septiembre del 2020
+Tarea entregada el 23 de Septiembre del 2020
