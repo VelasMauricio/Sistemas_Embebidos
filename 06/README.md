@@ -1,5 +1,5 @@
 # Tarea 06:
-## Menu Básico en PC
+## Aplicación Menu Genérico 
 
 Se presenta un menu programado en Arduino el cual es controlado por un teclado matricial 4x4.
 Se incluye el código, así como la simulación en Proteus del menu.
