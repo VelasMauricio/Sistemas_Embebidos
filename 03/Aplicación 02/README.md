@@ -1,5 +1,5 @@
-# Tarea 03: Proyecto Básico de Arduino
-## Paquete de simulación 
+# Tarea 03: 
+## Proyectos Básicos de Arduino
 
 Aplicación 2 del libro de ejercicios de Arduino referente a un controlador de Temperatura, realizando el cambio apropiado para colocarle una LCD de 20x4.
 
