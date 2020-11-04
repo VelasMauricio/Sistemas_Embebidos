@@ -1,5 +1,5 @@
 # Tarea 05: 
-## Aplicacion de interrupciones en Arduino 
+## Aplicación orientada a “Eventos”
 
 Ejercicio a realizar:
 
