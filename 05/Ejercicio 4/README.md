@@ -1,5 +1,5 @@
-# Tarea 05: Aplicacion de interrupciones en Arduino 
-## Paquete de Arduino
+# Tarea 05: 
+## Aplicacion de interrupciones en Arduino 
 
 Ejercicio a realizar:
 
