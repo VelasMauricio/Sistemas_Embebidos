@@ -1,0 +1,24 @@
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.pdb
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.csprojResolveAssemblyReference.cache
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Form1.resources
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Properties.Resources.resources
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.csproj.GenerateResource.Cache
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe
+c:\users\julio m\documents\visual studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.pdb
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.pdb
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.pdb
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.csprojResolveAssemblyReference.cache
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Form1.resources
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Properties.Resources.resources
+E:\RESPALDO FORMATEO 29-12-2015\DOCUMENTOS\Visual Studio 2012\Projects\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.csproj.GenerateResource.Cache
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.pdb
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.csprojAssemblyReference.cache
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Form1.resources
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Properties.Resources.resources
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.csproj.GenerateResource.cache
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe
+C:\Users\Luis Gerardo\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.pdb
