@@ -2,6 +2,7 @@
 ## Paquete de Arduino
 
 Se presenta un menu programado en Arduino el cual es controlado por un teclado matricial 4x4.
+Se incluye el código, así como la simulación en Proteus del menu.
 
 Las funciones que presenta el menu son las siguiente:
   Encendido y Apagado de LED's
