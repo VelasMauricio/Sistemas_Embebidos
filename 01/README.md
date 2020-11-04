@@ -1,7 +1,6 @@
-## Sistemas_Embebidos 
-### Tarea 01: Sensores y Actuadores
-### Presentación en PowerPoint
-#### Velásquez Castañeda Mauricio
+# Tarea 01: Sensores y Actuadores
+## Presentación en PowerPoint
+
 La presentación contiene la siguiente información sobre sensores:
 
 1. Definición
