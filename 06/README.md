@@ -6,16 +6,16 @@ Se incluye el código, así como la simulación en Proteus del menu.
 
 Las funciones que presenta el menu son las siguiente:
 
-  Encendido y Apagado de LED's
+  * Encendido y Apagado de LED's
   
-  Sensor de temperatura y humedad (DHT11)
+  * Sensor de temperatura y humedad (DHT11)
   
-  Sensor de luz (LDR)
+  * Sensor de luz (LDR)
   
-  Presentación de integrantes del equipo
+  * Presentación de integrantes del equipo
   
-  Conteo de presionado de botones
+  * Conteo de presionado de botones
   
-  Tiempo de expiración para retornar al menu principal
+  * Tiempo de expiración para retornar al menu principal
 
 Tarea entregada el 04 de Noviembre del 2020
