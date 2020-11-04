@@ -1,5 +1,5 @@
-# Tarea 02: Sistemas Embebidos
-## Presentación en PowerPoint
+# Tarea 02: 
+## Sistemas Embebidos
 
 La presentación contiene la siguiente información sobre los sistemas embebidos:
 
