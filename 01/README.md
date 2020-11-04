@@ -1,5 +1,5 @@
-# Tarea 01: Sensores y Actuadores
-## Presentación en PowerPoint
+# Tarea 01: 
+## Sensores y Actuadores
 
 La presentación contiene la siguiente información sobre sensores:
 
