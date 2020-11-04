@@ -1,7 +1,8 @@
-## Sistemas_Embebidos 
-### Tarea 05: Aplicacion de interrupciones en Arduino 
-### Paquete de Arduino
-#### Velásquez Castañeda Mauricio
-Ejercicio de aplicación de interrupción para implementar un timer en tiempo real.
+# Tarea 05: Aplicacion de interrupciones en Arduino 
+## Paquete de Arduino
+
+Ejercicio a realizar:
+
+* Implementar un timer de tiempo real (minutos y segundos) empleando el concepto de interrupciones (Revisar ejercicios anteriores).
 
 Tarea entregada el 07 de Octubre del 2020
