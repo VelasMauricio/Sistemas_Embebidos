@@ -1,7 +1,6 @@
-## Sistemas_Embebidos 
-### Tarea 02: Sistemas Embebidos
-### Presentación en PowerPoint
-#### Velásquez Castañeda Mauricio
+# Tarea 02: Sistemas Embebidos
+## Presentación en PowerPoint
+
 La presentación contiene la siguiente información sobre los sistemas embebidos:
 
 1. Definición
