@@ -1,5 +1,5 @@
-# Tarea 06: Menu en LCD 20x4  
-## Paquete de Arduino
+# Tarea 06:
+## Menu Básico en PC
 
 Se presenta un menu programado en Arduino el cual es controlado por un teclado matricial 4x4.
 Se incluye el código, así como la simulación en Proteus del menu.
@@ -18,4 +18,4 @@ Las funciones que presenta el menu son las siguiente:
   
   * Tiempo de expiración para retornar al menu principal
 
-Tarea entregada el 04 de Noviembre del 2020
+
