@@ -1,8 +1,7 @@
-# Actividad 07: 
-## Paquetería Arduino
+# Actividad 08: 
+## Ejercicio aplicación en la Nube
 
-El ejercicio es realizar una aplicación manipulada por un usuario (PC) y un servicio (sistema embebido, constituido por la plataforma Arduino o similar)
+Aplicación simple que ensaye un sistema local apoyado por un esquema en la nube.
 
-* En la aplicación se debe ejercitar la comunicación bidireccional entre la plataforma Arduino o similar y una computadora (de escritorio o personal).
+* La aplicación ejercitada debe tener entradas y salidas, del tipo analógico y digital; Debe realizar algún tipo de graficación, despliegue gráfico o impresión de resultados de lo que capture, lea o recopile del sistema ejercitado; La interacción con el servicio en la nube debe considerar servicios de actualización, consulta y administración.
 
-* Deben existir, al menos, 8 elementos digitales de entrada, 8 elementos de salida, 8 elementos de monitoreo analógico individuales, 4 controles analógicos de salida, todos desplegados para interacción con el usuario (PC), a través de elementos gráficos (diales, LEDs, interruptores, barras, sonido, listas de selección, etcétera)
