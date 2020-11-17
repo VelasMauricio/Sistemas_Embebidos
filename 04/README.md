@@ -1,4 +1,5 @@
-# Tarea 04: Sitio de Github
-## https://github.com/VelasMauricio/Sistemas_Embebidos.git  
+# Tarea 04: 
+## Cuenta personal en GitHub
+### https://github.com/VelasMauricio/Sistemas_Embebidos.git  
 
-Revisión del sitio web del estudiante.
+

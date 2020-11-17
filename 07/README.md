@@ -1,5 +1,5 @@
 # Actividad 07: 
-## Paquetería Arduino
+## Menú Basico en PC
 
 El ejercicio es realizar una aplicación manipulada por un usuario (PC) y un servicio (sistema embebido, constituido por la plataforma Arduino o similar)
 
